@@ -92,22 +92,7 @@ The [`analysis`](notebooks/03_analysis_analyze_supermarket_sales.py) notebook co
 
 ---
 
-### 📂 **Repository Structure**
 
-supermarket-sales-analytical-pipeline/
-│
-├── notebooks/
-│ ├── 00_setup_setup_config.py
-│ ├── 01_ingestion_ingest_supermarket_sales.py
-│ ├── 02_transformation_transform_supermarket_sales.py
-│ └── 03_analysis_analyze_supermarket_sales.py
-│
-├── diagrams/
-│ └── architecture.png
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
 
 ### 💻 **Setup Instructions**
 
