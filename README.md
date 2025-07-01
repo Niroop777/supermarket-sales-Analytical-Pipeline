@@ -12,7 +12,7 @@ The dataset simulates **daily transactions from multiple branches and product li
 
 ### 🔷 **Project Requirements**
 
-#### [Data Ingestion](notebooks/01_ingestion_ingest_supermarket_sales.py)
+#### Data Ingestion
 1. Ingest raw CSV data from ADLS into a **Bronze Delta table**.
 2. Apply appropriate schema during ingestion.
 3. Enable SQL-based analysis on ingested raw data.
