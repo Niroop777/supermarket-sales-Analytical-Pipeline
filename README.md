@@ -57,7 +57,7 @@ The dataset simulates **daily transactions from multiple branches and product li
 
 This project follows the **Azure Databricks Modern Analytics Architecture**, implementing **Bronze, Silver, and Gold layers** to systematically refine data for business value.
 
-<p align="center"><img src="diagrams/architecture.png" width="60%"></p>
+<p align="center"><img src="Images/architecture.png" width="60%"></p>
 
 | Layer | Description |
 |---|---|
