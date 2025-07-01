@@ -19,14 +19,14 @@ The dataset simulates **daily transactions from multiple branches and product li
 
 ---
 
-#### [Data Transformation](notebooks/02_transformation_transform_supermarket_sales.py)
+#### Data Transformation
 1. Perform data quality checks (nulls, negative totals, duplicate InvoiceIDs).
 2. Clean, standardize, and normalize data into a structured model.
 3. Partition Silver table by **branch** for optimized downstream querying.
 
 ---
 
-#### [Analysis](notebooks/03_analysis_analyze_supermarket_sales.py)
+#### Analysis
 1. Aggregate product sales summary data.
 2. Create Gold Delta tables with **Z-Ordering on productline** for BI performance.
 3. Enable SQL-based ad hoc and dashboard analysis.
